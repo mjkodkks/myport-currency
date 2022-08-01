@@ -32,3 +32,8 @@ services:
         ports:
             - "${PORT}:${PORT}"
 ```
+
+### .env 
+```sh
+PORT=8080
+```
